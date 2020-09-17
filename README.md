@@ -7,4 +7,4 @@
 ### 📑 https://https://www.linkedin.com/in/hugo-albrecht-08424b1ab/
 
 
-**Disponível para o mercado de trabalho.**
+**❗️ Disponível para o mercado de trabalho.**
