@@ -4,7 +4,7 @@
 ### 👦🏻 20 anos.
 ### 💻 Javascript, HTML, CSS, ReactJS 💚 
 ### 🌎 Joinville - SC.
-### 📑 https://www.linkedin.com/in/hugo-albrecht-08424b1ab/
+### 📑 https://www.linkedin.com/in/albrechthugo/
 
 
 **❗️ Disponível para o mercado de trabalho.**
