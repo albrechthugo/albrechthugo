@@ -7,4 +7,4 @@
 ### 📑 https://www.linkedin.com/in/albrechthugo/
 
 
-**❗️ Disponível para o mercado de trabalho.**
+**❗️ #OpenToWork.**
