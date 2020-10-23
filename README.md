@@ -5,6 +5,3 @@
 ### 💻 Javascript, HTML, CSS, ReactJS 💚 
 ### 🌎 Joinville - SC.
 ### 📑 https://www.linkedin.com/in/albrechthugo/
-
-
-**❗️ #OpenToWork**
