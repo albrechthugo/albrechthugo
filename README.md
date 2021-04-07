@@ -2,7 +2,7 @@
 
 <h2 align="center">👋🏻 Boas vindas ao meu perfil!</h2>
 
-<h3 align="center">Catarinense, tenho 20 anos e sou <strong>desenvolvedor frontend</strong>, atualmente integrando a TOTVS desenvolvendo soluções que fazem a diferença na logística do nosso país.<h3/>
+<h3 align="center">Catarinense, tenho 20 anos e sou <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
   
 
 
