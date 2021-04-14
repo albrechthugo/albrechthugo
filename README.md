@@ -2,7 +2,7 @@
 
 <h2 align="center">👋🏻 Boas vindas ao meu perfil!</h2>
 
-<h3 align="center">Catarinense, tenho 20 anos e sou <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
+<h3 align="center">Catarinense, 21 anos, <strong>desenvolvedor frontend</strong>, atualmente integro o time da TOTVS.<h3/>
   
 
 
